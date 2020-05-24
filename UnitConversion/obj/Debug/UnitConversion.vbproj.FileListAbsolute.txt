@@ -1,0 +1,10 @@
+E:\VBNET\UnitConversion\UnitConversion\bin\Debug\UnitConversion.exe.config
+E:\VBNET\UnitConversion\UnitConversion\bin\Debug\UnitConversion.exe
+E:\VBNET\UnitConversion\UnitConversion\bin\Debug\UnitConversion.pdb
+E:\VBNET\UnitConversion\UnitConversion\bin\Debug\UnitConversion.xml
+E:\VBNET\UnitConversion\UnitConversion\obj\Debug\UnitConversion.UnitConversion.resources
+E:\VBNET\UnitConversion\UnitConversion\obj\Debug\UnitConversion.Resources.resources
+E:\VBNET\UnitConversion\UnitConversion\obj\Debug\UnitConversion.vbproj.GenerateResource.Cache
+E:\VBNET\UnitConversion\UnitConversion\obj\Debug\UnitConversion.exe
+E:\VBNET\UnitConversion\UnitConversion\obj\Debug\UnitConversion.xml
+E:\VBNET\UnitConversion\UnitConversion\obj\Debug\UnitConversion.pdb
